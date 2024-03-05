@@ -1,0 +1,9 @@
+.AllProduct{
+    height: auto;
+}
+.product{
+    transition: 0.4s;
+}
+.product:hover{
+    box-shadow: 2px 2px 20px #000;
+}

@@ -1,0 +1,22 @@
+.Homeimage{
+    height: 91.6vh;
+    width: 100%;
+    background-image: url("https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg");
+    background-size:cover;
+}
+.c2{
+    height: 100vh;
+}
+.princeDown{
+    transition: 0.4s;
+}
+.downLink{
+    padding: 10px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+@media (max-width:500px) {
+    .hed{
+        font-size: 25px;
+    }
+}
